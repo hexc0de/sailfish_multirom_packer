@@ -7,7 +7,7 @@
 # These comments should not be deleted.
 
 # So far, the only supported ROM type for these files is kexec-based linux
-type="kexec"
+type="nokexec"
 
 # Paths to root of the ROM.
 # Both image and folder can be specified at one time, MultiROM will use 
