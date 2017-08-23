@@ -17,7 +17,7 @@ type="nokexec"
 # to use following alias:
 # - %m - ROM's folder (eg. /media/multirom/roms/*rom_name*)
 root_dir="%m"
-root_imd_fs="f2fs"
+root_img_fs="f2fs"
 
 # Path to kernel and initrd. Kernel path _must_ be specified.
 # Paths are relative to the folder in which is this file
